@@ -1,0 +1,2 @@
+const climbStairs = require('./staircase');
+
