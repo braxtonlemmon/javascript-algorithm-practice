@@ -39,7 +39,7 @@ function checkMagazine(magazine, note) {
     if (magazineDict[current] && magazineDict[current] > 0) {
       magazineDict[current] = magazineDict[current] - 1;
     } else {
-      let isPossible = 'No';
+      isPossible = 'No';
       break;
     }
   }
