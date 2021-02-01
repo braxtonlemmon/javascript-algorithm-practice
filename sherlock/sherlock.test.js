@@ -1,0 +1,3 @@
+const sherlockAndAnagrams = require('./sherlock');
+
+
