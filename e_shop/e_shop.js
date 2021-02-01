@@ -27,10 +27,10 @@ THINKING:
     d[j]
 
 
-k = [40, 50, 60]
-d = [5, 8, 12]
-b = 60
-return: 58
+  k = [40, 50, 60]
+  d = [5, 8, 12]
+  b = 60
+  return: 58
 
 */
 
@@ -50,7 +50,6 @@ function moneySpent(k, d, b) {
       }
     }
   }
-
   return maxSpent;
 }
 
